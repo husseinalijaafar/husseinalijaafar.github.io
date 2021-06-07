@@ -29,6 +29,11 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+
+div.towrap {
+
+	word-wrap:normal
+}	
 body {
 	line-height: 1;
 }
